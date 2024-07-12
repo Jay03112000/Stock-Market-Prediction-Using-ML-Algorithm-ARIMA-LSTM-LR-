@@ -1,4 +1,4 @@
-# Stock-Market-Prediction-Using-ML-Algorithm-ARIMA,LSTM,LR
+
 # Stock Price Prediction using Machine Learning Algorithms
 
 ## Project Overview
